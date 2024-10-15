@@ -2,9 +2,16 @@
   {
     "image": "https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1i99hg2jjo9f127tus1c0u14rc10.jpg",
     "link": "https://payhip.com/b/a9XEg",
-    "price": "3",
+    "price": "$3",
     "title": "ANIME DL",
     "desc": "Anime DL is a lightweight program for downloading anime episodes quickly and efficiently."
+  },
+  {
+    "image": "https://i.imgur.com/XJXwudc.png",
+    "link": "https://www.mediafire.com/file/p7vvdc4heqnm7t5/WinRAR_Password_Cracker_-_Rynox.rar/file",
+    "price": "Free",
+    "title": "WinRAR Password Cracker",
+    "desc": "Unlock password-protected RAR files quickly and securely with our advanced WinRAR Password Cracker."
   }
 ]
 
